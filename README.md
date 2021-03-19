@@ -1,3 +1,1 @@
-Hi, i'm Lillium, the one girl who you don't want to be working with
-
-Making bad code is my specialty! :D
+Just a random girl who likes to program stuff in c++
